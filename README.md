@@ -121,4 +121,10 @@ Cette commande doit afficher la liste des applications installées sur l’appar
 
 3. Démarrage d’Objection sur l’application cible
 
-<img width="1444" height="378" alt="image" src="https://github.com/user-attachments/assets/a8384e71-95ca-487a-84dc-daefe8261daf" />
+<img width="1465" height="441" alt="image" src="https://github.com/user-attachments/assets/ab702817-0dc1-4521-be44-829d408277ae" />
+
+
+app after bypass
+<img width="403" height="828" alt="Capture d&#39;écran 2026-05-06 135422" src="https://github.com/user-attachments/assets/dc5c92e5-121e-4c89-9de7-378ef18318be" />
+
+
